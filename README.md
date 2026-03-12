@@ -22,15 +22,15 @@ This repository contains a detailed exploration of the Metasploit Framework as a
 The Metasploit Framework is an essential tool for penetration testers, allowing them to identify vulnerabilities and simulate potential attacks. This report dives into its key features and demonstrates their application in HackTheBox scenarios.
 
 ## Tasks covered
--Module Usage: Automated exploitation using Metasploit modules.
--Payloads: Understanding single, stagers, and staged payloads.
--Sessions: Managing multiple compromised systems.
--Meterpreter: Advanced system control with Meterpreter shell.
+- Module Usage: Automated exploitation using Metasploit modules.
+- Payloads: Understanding single, stagers, and staged payloads.
+- Sessions: Managing multiple compromised systems.
+- Meterpreter: Advanced system control with Meterpreter shell.
 
 ## Key Insights
--The Metasploit Framework offers a comprehensive toolkit for ethical hacking.
--Modules streamline tasks such as scanning, exploitation, and post-exploitation.
--Meterpreter enhances control over compromised systems with its interactive capabilities.
+- The Metasploit Framework offers a comprehensive toolkit for ethical hacking.
+- Modules streamline tasks such as scanning, exploitation, and post-exploitation.
+- Meterpreter enhances control over compromised systems with its interactive capabilities.
 
 ## Screenshots
 Screenshots demonstrating the exploitation process and results are included in the report.
