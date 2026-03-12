@@ -1,10 +1,10 @@
 # Metasploit-framework
 
-##Author
+## Author
 Shedrack Nzau Joshua
 Security Analyst| cybersecurity Enthusiast
 
-##Overview
+## Overview
 This repository contains a detailed exploration of the Metasploit Framework as applied to HackTheBox challenges. The report demonstrates how to use Metasploit effectively for penetration testing, including modules, payloads, sessions, and Meterpreter.
 
 ## Table of Contents
@@ -18,7 +18,7 @@ This repository contains a detailed exploration of the Metasploit Framework as a
 4. [Screenshots](#screenshots)
 5. [Conclusion](#conclusion)
 
-##1. Introduction.
+## 1. Introduction.
 The Metasploit Framework is an essential tool for penetration testers, allowing them to identify vulnerabilities and simulate potential attacks. This report dives into its key features and demonstrates their application in HackTheBox scenarios.
 
 ## Tasks covered
@@ -38,5 +38,5 @@ Screenshots demonstrating the exploitation process and results are included in t
 ## Conclusion
 This assignment has enriched my understanding of the Metasploit Framework, highlighting its versatility in penetration testing and the importance of ethical practices in cybersecurity.
 
-##HackTheBox Achievement link
+## HackTheBox Achievement link
 [HackTheBox Achievement](https://academy.hackthebox.com/achievement/1481495/39)
